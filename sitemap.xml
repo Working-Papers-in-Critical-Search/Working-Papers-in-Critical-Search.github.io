@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap index for working-papers-in-critical-search.github.io.
+
+  Lists the per-repo sitemaps that Quarto auto-generates inside each
+  GitHub Pages site under this domain. Submit this URL once to Google
+  Search Console (under the bare-URL property) and Google will follow
+  the index to discover every paper site, plus the journal home.
+
+  When a new paper repo ships, append its <sitemap> entry below.
+-->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://working-papers-in-critical-search.github.io/home/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://working-papers-in-critical-search.github.io/paper-001-introduction/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
