@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://working-papers-in-critical-search.github.io/sitemap.xml
